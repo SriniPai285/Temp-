@@ -34,6 +34,8 @@ Javascript requires an interpreter to execute the code. Every web browser has it
 >
 >Internet Explorer/Edge: Chakra
 
+## Let's create a html file that gives an alert. 
+
 **1.Open a blank text file in any text editor with its extension as ".html".**
 
 >eg. helloWorld.html
@@ -57,6 +59,10 @@ Javascript requires an interpreter to execute the code. Every web browser has it
 
 **3.Save the file and open it any browser**
 
-This should be the output
+This should be the output:
 
 <img src="./src/scrn.png"/>
+
+You should see a dialog box with the text "Hello World".
+
+Cool, you just ran your first js script!! 
