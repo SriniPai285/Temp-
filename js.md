@@ -27,21 +27,29 @@ Now it's much more than that, it has something for everyone.
  #### Create your first javascript program
 
 Javascript requires an interpreter to execute the code. Every web browser has its own Javascript engine which acts as an interpreter, each with a different name.
+
 >Chrome: V8 engine
 >
 >Firefox: SpiderMonkey
 >
 >Internet Explorer/Edge: Chakra
 
+**1.Open a blank text file in any text editor with its extension as ".html".**
+
+>eg. helloWorld.html
+
+**2.Type the following code**
 
 ```
+    <!DOCTYPE html>
     <html>
         <head>
-        
+            <script>
+                alert("Hello World")
+            </script>
         <\head>
-
         <body>
-
+            Just a basic website.
         <\body>
     <\html>
 
