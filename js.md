@@ -54,3 +54,9 @@ Javascript requires an interpreter to execute the code. Every web browser has it
     <\html>
 
 ```
+
+**3.Save the file and open it any browser**
+
+This should be the output
+
+<img src="./src/scrn.png"/>
