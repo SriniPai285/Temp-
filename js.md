@@ -28,7 +28,9 @@ Now it's much more than that, it has something for everyone.
 
 Javascript requires an interpreter to execute the code. Every web browser has its own Javascript engine, each with a different name.
 >Chrome: V8 engine
+>
 >Firefox: SpiderMonkey
+>
 >Internet Explorer/Edge: Chakra
 
 
